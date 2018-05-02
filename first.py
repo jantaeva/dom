@@ -1,4 +1,3 @@
 if True:
-    print("Yes")
-else:
-    print("No")
+    print("Ye!!!s")
+
