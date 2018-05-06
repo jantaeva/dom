@@ -1,3 +1,3 @@
-if True:
-    print("Ye!!!s")
+a=(x+y)
+print(a)
 
